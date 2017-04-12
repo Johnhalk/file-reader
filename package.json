@@ -1,0 +1,13 @@
+{
+  "name": "file-reader-bvj",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "scripts": {
+    "test": "open SpecRunner.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
