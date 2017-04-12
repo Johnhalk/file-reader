@@ -21,20 +21,19 @@ so I can check if it is only divisible by itself and 1.
 - run `node src/Reader.js rail.txt` (too much text to be displayed in command line but functionality still works)
 
 **To run the tests**
-- npm test
+- run `npm test`
 
 **Edge Cases**
-- `node src/Reader.js empty.txt` (this is an empty text file for the purpose of throwing an error)
-- `node src/Reader.js text.pdf` (this is for the purpose of throwing an error if file isn't .txt extension)
-- `node src/Reader.js` (this will throw an error due to no arguments being passed with the Reader.js file)
+- run `node src/Reader.js empty.txt` (this is an empty text file for the purpose of throwing an error)
+- run `node src/Reader.js text.pdf` (this is for the purpose of throwing an error if file isn't .txt extension)
+- run `node src/Reader.js` (this will throw an error due to no arguments being passed with the Reader.js file)
 
 ### Successes
 - Fully functional application as per the requirements.
 - Good test coverage.
-- MVP hit in 2 days.
+- AGILE approach, started with most basic MVP and iterated through.
 - Well extracted features.
 - Most edge cases tested.
-- AGILE approach, started with most basic MVP and iterated through.
 
 ### Struggles
 - How complex should the application be i.e. React app, front end to allow user input etc.
